@@ -25,7 +25,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "vue-components/dist/vue-bundle.js"
+            ]
           },
           "configurations": {
             "production": {
